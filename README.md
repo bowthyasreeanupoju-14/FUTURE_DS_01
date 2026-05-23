@@ -1,8 +1,8 @@
 # FUTURE_DS_01
 # 📊 Business Sales Performance Analytics
+Interactive analytics project built using Python and Google Colab for the Future Interns Data Science & Analytics Internship Program.
 
 ## Future Interns – Task 01 | Data Science & Analytics
-
 ### 👩‍💻 Intern
 A Bowthya Sree
 
